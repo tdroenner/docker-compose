@@ -6,7 +6,6 @@ MAINTAINER Joseph PAGE <https://github.com/josephpage>
 MAINTAINER Ed Morley <https://github.com/edmorley>
 
 ENV DEBIAN_FRONTEND noninteractive
-
 ENV COMPOSE_VERSION 1.5.0
 
 RUN apt-get update -q \
